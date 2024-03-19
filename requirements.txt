@@ -1,0 +1,41 @@
+
+# For environment variables
+python-dotenv
+
+# For the streamlit app and functionalities
+numpy
+pandas
+requests
+bs4
+#cv2
+opencv-python
+pytesseract
+plotly
+datetime
+streamlit
+folium
+streamlit_folium
+audio_recorder_streamlit #audiorecorder
+streamlit-audiorec
+streamlit_mic_recorder
+
+# For Azure Cognitive service
+azure.cognitiveservices.speech
+
+# For NER service (city and horizon)
+spacy
+transformers
+datefinder
+datetime
+
+# For the geocoding service
+geopy
+
+# For the forecast weather service
+openmeteo-requests
+requests-cache
+retry-requests
+
+# Storage data into the SQL database
+pyodbc
+ipykernel
